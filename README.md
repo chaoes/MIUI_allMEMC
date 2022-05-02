@@ -1,5 +1,5 @@
 # MIUI_allMEMC
-A magisk to enable all app to use MEMC of MIUI
-All app semc enable by replacing SecurityCenter.apk
-Tested only on miui13
-Uninstall update of SecurityCenter to ensure it takes effect
+<p>A magisk to enable all app to use MEMC of MIUI</p>
+<p>All app semc enable by replacing SecurityCenter.apk</p>
+<p>Tested only on miui13</p>
+<p>Uninstall update of SecurityCenter to ensure it takes effect</p>
